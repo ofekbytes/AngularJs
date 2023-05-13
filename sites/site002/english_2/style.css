@@ -1,0 +1,46 @@
+.container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f2f2f2;
+}
+
+/* Style for input fields */
+input[type=text] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+th {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+
+
+td {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-size: 20px;
+  /* align-content: center; */
+  /* align-items: center; */
+  /* align-self: center; */
+  text-align: center;
+  /* width: 300px;
+  border: 1px dotted;
+  align-self: center; */
+}
